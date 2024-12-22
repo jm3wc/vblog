@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,a2 as a}from"./chunks/framework.CSGcjqEA.js";const w=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"链接.md","filePath":"链接.md"}'),l={name:"链接.md"},n=a("",30),d=[n];function h(s,o,i,c,f,p){return r(),e("div",null,d)}const b=t(l,[["render",h]]);export{w as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a2 as p}from"./chunks/framework.CSGcjqEA.js";const b=JSON.parse('{"title":"Flex 布局教程：语法篇","description":"","frontmatter":{},"headers":[],"relativePath":"Flex布局.md","filePath":"Flex布局.md"}'),e={name:"Flex布局.md"},l=p("",212),t=[l];function i(o,c,d,g,r,u){return n(),a("div",null,t)}const m=s(e,[["render",i]]);export{b as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a2 as p}from"./chunks/framework.CSGcjqEA.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"常见网络命令.md","filePath":"常见网络命令.md"}'),n={name:"常见网络命令.md"},r=p("",85),o=[r];function i(s,c,l,h,P,d){return t(),a("div",null,o)}const I=e(n,[["render",i]]);export{g as __pageData,I as default};

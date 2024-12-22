@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,a2 as n}from"./chunks/framework.CSGcjqEA.js";const b=JSON.parse('{"title":"CSS Grid 网格布局教程","description":"","frontmatter":{},"headers":[],"relativePath":"Grid.md","filePath":"Grid.md"}'),p={name:"Grid.md"},t=n("",255),l=[t];function o(i,c,d,r,g,u){return e(),a("div",null,l)}const m=s(p,[["render",o]]);export{b as __pageData,m as default};

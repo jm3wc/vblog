@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as n,a2 as e}from"./chunks/framework.CSGcjqEA.js";const m=JSON.parse('{"title":"什么是 TypeScript","description":"","frontmatter":{},"headers":[],"relativePath":"ts.md","filePath":"ts.md"}'),p={name:"ts.md"},t=e("",1129),l=[t];function i(c,o,r,d,h,u){return n(),s("div",null,l)}const b=a(p,[["render",i]]);export{m as __pageData,b as default};

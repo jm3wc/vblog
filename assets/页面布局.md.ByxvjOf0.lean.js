@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a2 as e}from"./chunks/framework.CSGcjqEA.js";const m=JSON.parse('{"title":"框架布局","description":"","frontmatter":{},"headers":[],"relativePath":"页面布局.md","filePath":"页面布局.md"}'),t={name:"页面布局.md"},p=e("",161),l=[p];function i(o,c,d,r,h,u){return n(),a("div",null,l)}const b=s(t,[["render",i]]);export{m as __pageData,b as default};

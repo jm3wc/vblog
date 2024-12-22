@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a2 as e}from"./chunks/framework.CSGcjqEA.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScirpt.md","filePath":"JavaScirpt.md"}'),p={name:"JavaScirpt.md"},l=e("",1306),t=[l];function i(r,c,o,d,h,g){return a(),n("div",null,t)}const v=s(p,[["render",i]]);export{b as __pageData,v as default};

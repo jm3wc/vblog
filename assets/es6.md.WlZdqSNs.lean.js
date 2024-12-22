@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a2 as p}from"./chunks/framework.CSGcjqEA.js";const b=JSON.parse('{"title":"变量let与const","description":"","frontmatter":{},"headers":[],"relativePath":"es6.md","filePath":"es6.md"}'),l={name:"es6.md"},e=p("",90),i=[e];function t(c,o,r,u,d,h){return a(),n("div",null,i)}const v=s(l,[["render",t]]);export{b as __pageData,v as default};

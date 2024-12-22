@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as i,a2 as p}from"./chunks/framework.CSGcjqEA.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tcpip.md","filePath":"tcpip.md"}'),e={name:"tcpip.md"},l=p("",455),c=[l];function r(h,o,P,n,s,d){return i(),a("div",null,c)}const I=t(e,[["render",r]]);export{g as __pageData,I as default};

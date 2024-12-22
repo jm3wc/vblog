@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.CSGcjqEA.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"nginx.md","filePath":"nginx.md"}'),l={name:"nginx.md"},p=n("",373),h=[p];function t(k,e,r,E,d,g){return a(),i("div",null,h)}const y=s(l,[["render",t]]);export{c as __pageData,y as default};

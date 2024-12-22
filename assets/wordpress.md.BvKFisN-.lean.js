@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.CSGcjqEA.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"wordpress.md","filePath":"wordpress.md"}'),p={name:"wordpress.md"},t=n("",152),h=[t];function l(e,k,r,d,g,o){return a(),i("div",null,h)}const y=s(p,[["render",l]]);export{c as __pageData,y as default};

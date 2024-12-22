@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.CSGcjqEA.js";const F=JSON.parse('{"title":"React语法","description":"","frontmatter":{},"headers":[],"relativePath":"react.md","filePath":"react.md"}'),h={name:"react.md"},l=n("",180),k=[l];function p(t,E,e,r,d,g){return a(),i("div",null,k)}const c=s(h,[["render",p]]);export{F as __pageData,c as default};

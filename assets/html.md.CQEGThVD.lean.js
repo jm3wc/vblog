@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as n,a2 as s}from"./chunks/framework.CSGcjqEA.js";const q=JSON.parse('{"title":"HTML基础&结构","description":"","frontmatter":{},"headers":[],"relativePath":"html.md","filePath":"html.md"}'),e={name:"html.md"},l=s("",136),p=[l];function i(o,c,d,r,u,g){return n(),a("div",null,p)}const y=t(e,[["render",i]]);export{q as __pageData,y as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a2 as e}from"./chunks/framework.CSGcjqEA.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Composer.md","filePath":"Composer.md"}'),p={name:"Composer.md"},o=e("",57),t=[o];function i(l,c,r,h,d,g){return n(),a("div",null,t)}const b=s(p,[["render",i]]);export{u as __pageData,b as default};

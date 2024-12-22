@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.CSGcjqEA.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Thinkphp5.md","filePath":"Thinkphp5.md"}'),h={name:"Thinkphp5.md"},p=n("",747),l=[p];function k(t,e,d,r,E,g){return a(),i("div",null,l)}const c=s(h,[["render",k]]);export{y as __pageData,c as default};

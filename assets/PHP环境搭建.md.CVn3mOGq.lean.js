@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as p,a2 as n}from"./chunks/framework.CSGcjqEA.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"PHP环境搭建.md","filePath":"PHP环境搭建.md"}'),e={name:"PHP环境搭建.md"},t=n("",118),i=[t];function o(l,h,c,d,r,g){return p(),s("div",null,i)}const b=a(e,[["render",o]]);export{u as __pageData,b as default};

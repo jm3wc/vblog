@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a2 as p}from"./chunks/framework.CSGcjqEA.js";const m=JSON.parse('{"title":"CSS3基础&选择符","description":"","frontmatter":{},"headers":[],"relativePath":"css.md","filePath":"css.md"}'),l={name:"css.md"},t=p("",636),e=[t];function i(c,o,r,d,g,h){return a(),n("div",null,e)}const b=s(l,[["render",i]]);export{m as __pageData,b as default};
